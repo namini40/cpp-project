@@ -146,7 +146,7 @@ int main()
     }
 
     // random dice
-    for(int i=0;i<1000;i++){
+    for(int i=0;i<10;i++){
         // from 0 to 6 (6 is not included)
         int range = 6;
         // plus 1 to shift the range: 1 to 6
